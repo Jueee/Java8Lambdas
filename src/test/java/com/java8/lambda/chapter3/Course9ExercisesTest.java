@@ -1,9 +1,7 @@
 package com.java8.lambda.chapter3;
 
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.fail;
 
-import java.security.Identity;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

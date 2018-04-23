@@ -19,27 +19,27 @@ Java 8 Lambdas，Richard Warburton 著（O’Reilly，2014）。版权所有， 
 * 一、简介  
      1. 为什么需要再次修改 Java  
      2. 什么是函数式编程
- - 二、Lambda 表达式
+ - 二、[Lambda 表达式](src/main/java/com/java8/lambda/chapter2)
      1. [第一个 Lambda 表达式 ](src/main/java/com/java8/lambda/chapter2/Course1SwingButton.java) 
-     2. 如何辨别 Lambda 表达式
-     3. 引用值，而不是变量
+     2. [如何辨别 Lambda 表达式](src/main/java/com/java8/lambda/chapter2/Course2Discern.java)
+     3. [引用值，而不是变量](src/main/java/com/java8/lambda/chapter2/Course3UseValue.java)
      4. 函数接口
      5. 类型推断
- - 三、流
-     1. 从外部迭代到内部迭代
-     2. 实现机制
+ - 三、[流](src/main/java/com/java8/lambda/chapter3)
+     1. [从外部迭代到内部迭代](src/main/java/com/java8/lambda/chapter3/Course1Stream.java)
+     2. [实现机制](src/main/java/com/java8/lambda/chapter3/Course2Mechanism.java)
      3. 常用的流操作  
-     	 3.1  collect(toList())  
-     	 3.2  map  
-     	 3.3  filter  
-     	 3.4  flatMap  
-     	 3.5  max 和  min    
-     	 3.6     通用模式    
-     	 3.7  reduce   
-     	 3.8     整合操作   
-     4. 重构遗留代码
-     5. 多次调用流操作
-     6. 高阶函数
-     7. 正确使用Lambda表达式
-     8. 要点回顾
-     9. 练习
+     	 3.1	[collect(toList())](src/main/java/com/java8/lambda/chapter3/Course31Collect.java)  
+     	 3.2	[map](src/main/java/com/java8/lambda/chapter3/Course32Map.java)  
+     	 3.3	[filter](src/main/java/com/java8/lambda/chapter3/Course33Filter.java)  
+     	 3.4	[flatMap](src/main/java/com/java8/lambda/chapter3/Course34FlatMap.java)  
+     	 3.5	[max 和  min](src/main/java/com/java8/lambda/chapter3/Course35MaxMin.java)    
+     	 3.6	 [通用模式](src/main/java/com/java8/lambda/chapter3/Course36Common.java)    
+     	 3.7	[reduce](src/main/java/com/java8/lambda/chapter3/Course37Reduce.java)   
+     	 3.8	[整合操作](src/main/java/com/java8/lambda/chapter3/Course38Integration.java)   
+     4. [重构遗留代码](src/main/java/com/java8/lambda/chapter3/Course4Refactoring.java)
+     5. [多次调用流操作](src/main/java/com/java8/lambda/chapter3/Course5MultipleUse.java)
+     6. [高阶函数](src/main/java/com/java8/lambda/chapter3/Course6HigherFunction.java)
+     7. [正确使用 Lambda 表达式](src/main/java/com/java8/lambda/chapter3/Course7CorrectUse.java)
+     8. [要点回顾](src/main/java/com/java8/lambda/chapter3/Course8KeyPoint.java)
+     9. [练习](src/main/java/com/java8/lambda/chapter3/Course9Exercises.java)
