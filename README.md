@@ -43,7 +43,7 @@ Java 8 Lambdas，Richard Warburton 著（O’Reilly，2014）。版权所有， 
      7. [正确使用 Lambda 表达式](src/main/java/com/java8/lambda/chapter3/Course7CorrectUse.java)
      8. [要点回顾](src/main/java/com/java8/lambda/chapter3/Course8KeyPoint.java)
      9. [练习](src/main/java/com/java8/lambda/chapter3/Course9Exercises.java)
- - 四、类库(src/main/java/com/java8/lambda/chapter4)
+ - 四、[类库](src/main/java/com/java8/lambda/chapter4)
      1. [在代码中使用 Lambda 表达式](src/main/java/com/java8/lambda/chapter4/Course01CodeUse.java)
      2. [基本类型](src/main/java/com/java8/lambda/chapter4/Course02BasicType.java)
      3. [重载解析](src/main/java/com/java8/lambda/chapter4/Course03Overload.java)
