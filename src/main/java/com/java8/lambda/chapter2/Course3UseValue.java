@@ -8,10 +8,10 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.WindowConstants;
+
 /**
- *  引用值，而不是变量
- * @author hzweiyongqiang
- *
+ *	引用值，而不是变量
+ *	@author hzweiyongqiang
  */
 public class Course3UseValue extends JFrame{
 
