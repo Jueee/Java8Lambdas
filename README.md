@@ -56,21 +56,21 @@ Java 8 Lambdas，Richard Warburton 著（O’Reilly，2014）。版权所有， 
      10. [Optional](src/main/java/com/java8/lambda/chapter4/Course10Optional.java)
      11. [要点回顾](src/main/java/com/java8/lambda/chapter4/Course11KeyPoints.java)
      12. [练习](src/main/java/com/java8/lambda/chapter4/Course12Exercises.java)
-- 五、高级集合类和收集器
-     1.	  方法引用       
-     2. 元素顺序    
-     3. 使用收集器   
-     	3.1 转换成其他集合  
-     	3.2	转换成值  
-     	3.3	数据分块  
-     	3.4	数据分组  
-     	3.5	字符串  
-     	3.6	组合收集器   
-     	3.7 重构和定制收集器  
-     	3.8 对收集器的归一化处理  
-     4. 一些细节  
-     5. 要点回顾
-     6. 练习
+- 五、[高级集合类和收集器](src/main/java/com/java8/lambda/chapter5)
+     1. [方法引用](src/main/java/com/java8/lambda/chapter5/Course1MethodReferences.java)       
+     2. [元素顺序](src/main/java/com/java8/lambda/chapter5/Course2ElementOrdering.java)    
+     3. [使用收集器](src/main/java/com/java8/lambda/chapter5/Course30EnterCollector.java)   
+     	3.1 [转换成其他集合](src/main/java/com/java8/lambda/chapter5/Course31IntoOther.java)  
+     	3.2	[转换成值](src/main/java/com/java8/lambda/chapter5/Course32ToValues.java)  
+     	3.3	[数据分块](src/main/java/com/java8/lambda/chapter5/Course33PartitioningData.java)  
+     	3.4	[数据分组](src/main/java/com/java8/lambda/chapter5/Course34GroupingData.java)  
+     	3.5	[字符串](src/main/java/com/java8/lambda/chapter5/Course35Strings.java)  
+     	3.6	[组合收集器](src/main/java/com/java8/lambda/chapter5/Course36ComposingCollectors.java)   
+     	3.7 [重构和定制收集器](src/main/java/com/java8/lambda/chapter5/Course37RefactoringCollectors.java)  
+     	3.8 [对收集器的归一化处理](src/main/java/com/java8/lambda/chapter5/Course38ReductionCollector.java)  
+     4. [一些细节](src/main/java/com/java8/lambda/chapter5/Course4CollectionNiceties.java)  
+     5. [要点回顾](src/main/java/com/java8/lambda/chapter5/Course5KeyPoints.java)
+     6. [练习](src/main/java/com/java8/lambda/chapter5/Course6Exercises.java)
 - 六、数据并行化
      1. 并行和并发
      2. 为什么并行化如此重要
