@@ -19,9 +19,9 @@ public class SampleData {
 
     public static final Album aLoveSupreme = new Album("A Love Supreme", Arrays.asList(new Track("Acknowledgement", 467), new Track("Resolution", 442)), Arrays.asList(johnColtrane));
 
-    public static final Album sampleShortAlbum = new Album("sample Short Album", Arrays.asList(new Track("short track", 30)), Arrays.asList(johnColtrane));
+    public static final Album sampleShortAlbum = new Album("sample Short Album", Arrays.asList(new Track("short track", 30)), Arrays.asList(paulMcCartney));
 
-    public static final Album manyTrackAlbum = new Album("sample Short Album", Arrays.asList(new Track("short track", 30), new Track("short track 2", 30), new Track("short track 3", 30), new Track("short track 4", 30), new Track("short track 5", 30)), Arrays.asList(johnColtrane));
+    public static final Album manyTrackAlbum = new Album("many Track Album", Arrays.asList(new Track("short track", 30), new Track("short track 2", 30), new Track("short track 3", 30), new Track("short track 4", 30), new Track("short track 5", 30)), Arrays.asList(johnColtrane));
 
     public static final Album testAlbum = new Album("test Album", Arrays.asList(new Track("test track", 30)), Arrays.asList(theBeatles));
     
