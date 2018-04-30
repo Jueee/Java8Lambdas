@@ -1,7 +1,6 @@
 package com.java8.lambda.chapter5;
 
 import java.util.List;
-import java.util.jar.Attributes.Name;
 import java.util.stream.Collectors;
 
 import com.java8.lambda.chapter1.Artist;
