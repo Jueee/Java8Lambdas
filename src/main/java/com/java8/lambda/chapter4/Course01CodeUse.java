@@ -22,7 +22,7 @@ public class Course01CodeUse {
 		}
 	}
 
-	private String expensiveOperation() {
+	public String expensiveOperation() {
 		return "";
 	}
 
