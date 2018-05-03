@@ -1,7 +1,7 @@
 # Java8Lambdas
 《Java 8函数式编程》学习笔记  
 ##### 所用书籍
-Java 8 Lambdas，Richard Warburton 著（O’Reilly，2014）。版权所有， 978-1-449-37077-0。
+Java 8 Lambdas，Richard Warburton 著（O’Reilly，2014）。版权所有， 978-1-449-37077-0。[GitHub 地址](https://github.com/RichardWarburton/java-8-lambdas-exercises)
 ##### 本书将探讨如下主题
 * 如何编写出简单、干净、易读的代码——尤其是对于集合的操作？
 * 如何简单地使用并行计算提高性能？
@@ -103,7 +103,7 @@ Java 8 Lambdas，Richard Warburton 著（O’Reilly，2014）。版权所有， 
      	2.1 [使用 Java 编写DSL](src/main/java/com/java8/lambda/chapter8/Course21DSLinJava.java)  
      	2.2 [实现](src/main/java/com/java8/lambda/chapter8/Course22How.java)  
      	2.3 [评估](src/main/java/com/java8/lambda/chapter8/Course23Evaluation.java)  
-     3. [使用 Lambda 表达式的 SOLID 原则](src/main/java/com/java8/lambda/chapter8/Course30SOLID.java)
+     3. [使用 Lambda 表达式的 SOLID 原则](src/main/java/com/java8/lambda/chapter8/Course30SOLID.java)  
      	3.1 [单一功能原则](src/main/java/com/java8/lambda/chapter8/Course31SingleResponsibility.java)  
      	3.2 [开闭原则](src/main/java/com/java8/lambda/chapter8/Course32OpenClosed.java)  
      	3.3 [依赖反转原则](src/main/java/com/java8/lambda/chapter8/Course33DependencyInversion.java)  
