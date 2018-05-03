@@ -1,7 +1,6 @@
 package com.java8.lambda.chapter5;
 
-import java.util.Arrays;
-import java.util.Collection;import java.util.Collections;
+import java.util.Collection;
 import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
@@ -10,8 +9,6 @@ import java.util.Optional;
 import java.util.function.Function;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-
-import com.java8.lambda.chapter1.Artist;
 
 /**
  * 	练习
