@@ -90,7 +90,7 @@ Java 8 Lambdas，Richard Warburton 著（O’Reilly，2014）。版权所有， 
      3. [在测试替身时使用Lambda表达式](src/main/java/com/java8/lambda/chapter7/Course3TestDoubles.java)
      4. [惰性求值和调试](src/main/java/com/java8/lambda/chapter7/Course4LazyEvaluation.java)
      5. [日志和打印消息](src/main/java/com/java8/lambda/chapter7/Course5Logging.java)
-     6. [解决方案： peak](src/main/java/com/java8/lambda/chapter7/Course6Peek.java)
+     6. [解决方案： peek](src/main/java/com/java8/lambda/chapter7/Course6Peek.java)
      7. [在流中间设置断点](src/main/java/com/java8/lambda/chapter7/Course7Breakpoints.java)
      8. [要点回顾](src/main/java/com/java8/lambda/chapter7/Course8KeyPoints.java)  
 - 八、[设计和架构的原则](src/main/java/com/java8/lambda/chapter8)

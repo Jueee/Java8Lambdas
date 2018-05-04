@@ -12,6 +12,12 @@ public class Album implements Performance{
     private List<Track> tracks;
     private List<Artist> musicians;
 
+    public Album(String name) {
+        Objects.requireNonNull(name);
+
+        this.name = name;
+    }
+
     public Album(String name, List<Track> tracks, List<Artist> musicians) {
         Objects.requireNonNull(name);
         Objects.requireNonNull(tracks);
