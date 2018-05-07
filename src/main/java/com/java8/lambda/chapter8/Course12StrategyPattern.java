@@ -72,6 +72,7 @@ public class Course12StrategyPattern {
 	/**
 	 * 	使用方法引用初始化 Compressor
 	 * 	在这里，我们可以去掉具体的策略实现，使用一个方法实现算法，这里的算法由构造函数中对应的 OutputStream 实现。
+	 * 	使用这种方式，可以完全舍弃 GzipCompressionStrategy 和 ZipCompressionStrategy 类。
 	 *	@param inFile
 	 *	@param outFile
 	 *	@throws FileNotFoundException
