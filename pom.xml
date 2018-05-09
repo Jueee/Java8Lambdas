@@ -12,6 +12,7 @@
 		<junit.platform.version>1.0.0-RC2</junit.platform.version>
 		<junit.vintage.version>4.12.0-RC2</junit.vintage.version>
 		<rxjava.version>0.16.1</rxjava.version>
+		<vertx.version>2.0.2-final</vertx.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -73,6 +74,17 @@
             <artifactId>rxjava-core</artifactId>
             <version>${rxjava.version}</version>
         </dependency>
+        <!-- 全异步框架Vert.x -->
+        <dependency>
+		    <groupId>io.vertx</groupId>
+		    <artifactId>vertx-core</artifactId>
+		    <version>${vertx.version}</version>
+		</dependency>
+		<dependency>
+            <groupId>io.vertx</groupId>
+            <artifactId>vertx-platform</artifactId>
+            <version>${vertx.version}</version>
+          </dependency>
 	</dependencies>
 	<build>
 		<plugins>
