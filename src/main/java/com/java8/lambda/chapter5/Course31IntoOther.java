@@ -1,7 +1,5 @@
 package com.java8.lambda.chapter5;
 
-import java.util.Collection;
-import java.util.Iterator;
 import java.util.TreeSet;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
