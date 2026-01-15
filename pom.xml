@@ -12,7 +12,7 @@
 		<junit.platform.version>1.0.0-RC2</junit.platform.version>
 		<junit.vintage.version>4.12.0-RC2</junit.vintage.version>
 		<rxjava.version>0.16.1</rxjava.version>
-		<vertx.version>2.0.2-final</vertx.version>
+		<vertx.version>4.5.24</vertx.version>
 	</properties>
 	<dependencies>
 		<dependency>
